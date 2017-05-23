@@ -1,5 +1,6 @@
 ## Coding rules
  * Make sure that your style is consistent. In our group (thanks Brian), we use CamelCase for classes, underscores and lower_case for functions. Indentation is two spaces.
+ * Use descriptive names for variables. 
  * Document intent, inputs, and outputs for functions. Especially in Python.
  * Try to avoid functions longer than you can read on your screen
  * Be familiar with standard library functions, both in C++ and Python
