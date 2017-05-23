@@ -4,3 +4,4 @@ A research meeting consists of three parts:
  * Show your progress. There should be at least one plot. If there have been obstacles describe in detail what you tried and the results of the attempts.
  * Update the project plan.  Describe what progress has been made, what progress you expect to make before the next meeting, and when the project will be finished.
  
+Take notes! You will forget everything by the next day.
