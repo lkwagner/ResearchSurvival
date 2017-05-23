@@ -1,4 +1,4 @@
-It's common for students to have trouble converging DFT calculations for correlated electron systems. 
+It's common for people to have trouble converging DFT calculations for correlated electron systems. 
 A lot of times you have to try a few different tricks for one to work. 
 
 ## Checklist
