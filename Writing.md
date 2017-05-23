@@ -8,7 +8,7 @@
  
 ## The TeX file
  * One line per sentence
- * Use colored comments
+ * Use colored comments, e.g.: \newcommand{\lucas}[1]{\textcolor{blue}{\bf [LKW: #1 ]}} 
  
 ## Writing order
  * Outline
@@ -22,3 +22,10 @@ Paper and talk introductions roughly consist of four parts. In a paper, these pa
  * Current state of the art to overcoming that barrier
  * Our advancement of that state of the art
  
+## Writing tips
+ * Your outline gives you the topic sentences for each paragraph
+ * The purpose of a paragraph is to draw a direct line from its topic sentence to the topic of the next paragraph
+ * Avoid extraneous details and parenthetical comments. 
+ * If you're not a native speaker, use a grammar checker (https://www.grammarly.com) or ask a native speaker to check your English before sending it to me.
+ * Avoid poorly defined or vague words like "various," "strong," "weak," "small," "good agreement," and so on.
+ * Words like "moreover" usually mean that you are off the plot
