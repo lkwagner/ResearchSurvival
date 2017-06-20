@@ -29,3 +29,9 @@ Paper and talk introductions roughly consist of four parts. In a paper, these pa
  * If you're not a native speaker, use a grammar checker (https://www.grammarly.com) or ask a native speaker to check your English before sending it to me.
  * Avoid poorly defined or vague words like "various," "strong," "weak," "small," "good agreement," and so on.
  * Words like "moreover" usually mean that you are off the plot
+
+## Making figures with minimal sweat
+ * In matplotlib, set figsize=(3,3) for one column, otherwise the size you want it.
+ * Set the font size around 10-11
+ * Do not use the width parameter in \includegraphics
+ * Don't worry about figure placement while you're writing the document; usually it automatically adjusts once there's enough text.
