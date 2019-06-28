@@ -8,7 +8,10 @@
  
 ## The TeX file
  * One line per sentence
- * Use colored comments, e.g.: \newcommand{\lucas}[1]{\textcolor{blue}{\bf [LKW: #1 ]}} 
+ * Use colored comments, e.g.: 
+ ```latex 
+ \newcommand{\lucas}[1]{\textcolor{blue}{\bf [LKW: #1 ]}} 
+ ```
  
 ## Writing order
  * Outline
