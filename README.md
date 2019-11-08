@@ -1,2 +1,2 @@
 # ResearchSurvival
-A collection of notes on survival in my research group
+A collection of notes that will help you succeed in my research group
