@@ -41,7 +41,7 @@ If your paper hasn't changed, I won't look at it and the paper will be delayed m
 |   +-- fig_[useful name].pdf
 ```
 
-  * papername should have something to do with the paper. That way when we make PDFs the 
+  * papername should have something to do with the paper. That way when we make PDFs they aren't all manuscript.pdf.:)
   * We commit the submitted PDFs so that they are recorded, but not the draft versions. **Do not** commit paper PDFs until you hit the submit button on the publisher's website.
   * The plotting files should have the same name as the figures they produce. 
   
