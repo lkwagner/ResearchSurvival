@@ -1,3 +1,4 @@
+I very much recommend that you read through the material available at (Celia Elliot's webpage)[https://physics.illinois.edu/people/directory/profile/cmelliot]
 
 ## Collaboration
  * Set up a private GitHub repository
@@ -5,18 +6,27 @@
  * If data is less than a few MB, also put it in the repository. If it's big, provide a link to it.
  * Do not commit .aux and the paper PDF. Figure PDFs are ok.
  * Commit immediately after making a change
- 
+
+## File structure
+  
+
 ## The TeX file
  * One line per sentence
  * Use colored comments, e.g.: 
  ```latex 
  \newcommand{\lucas}[1]{\textcolor{blue}{\bf [LKW: #1 ]}} 
  ```
+One line per sentence helps git properly track changes. The colored comments let us easily mark things to consider later without forgetting about them. 
  
 ## Writing order
+ * "True statements"
  * Outline
  * Figures
  * Text
+
+*True statements* 
+
+The *outline and figures* are often developed at the same time. The figures 
 
 ## Introductions 
 Paper and talk introductions roughly consist of four parts. In a paper, these parts will usually be one paragraph each. 
