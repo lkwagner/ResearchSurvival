@@ -93,6 +93,7 @@ Mathematical objects useful in many-body quantum
 * Effective Lagrangian 
 * Topological invariant
 * Mermin-Wagner theorem
+* Reduced density matrices
 
 Approximations
 * Born-Oppenheimer approximation
