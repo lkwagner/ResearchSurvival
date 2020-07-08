@@ -5,7 +5,7 @@ Week of | Monday office hours | Wednesday | Thursday
 6/22    | Bonding, orbitals   | Will, Alex | Nirvaan, Shunyue|
 6/29    | Skipped (group meeting)   | Billy, Yueqing | Kevin, Mick |
 7/6     | TDDFT  | Will, Alex  | Nirvaan, Shunyue, Shivesh | 
-7/13     | ????  | Billy, Yueqing  | Kevin, Mick | 
+7/13     | Spinor wave function  | Billy, Yueqing  | Kevin, Mick | 
 7/20     | ????  | Will, Alex  | Nirvaan, Shunyue, Shivesh | 
 7/27     | ????  | Billy, Yueqing  | Kevin, Mick | 
 8/3   | ????  | Will, Alex  | Nirvaan, Shunyue, Shivesh | 
