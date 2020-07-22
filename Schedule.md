@@ -6,9 +6,9 @@ Week of | Monday office hours | Wednesday | Thursday
 6/29    | Skipped (group meeting)   | Billy, Yueqing | Kevin, Mick |
 7/6     | TDDFT  | Will, Alex  | Nirvaan, Shunyue, Shivesh | 
 7/13     | Spinor wave function  | Billy, Yueqing  | Kevin, Mick | 
-7/20     | ????  | Will, Alex  | Nirvaan, Shunyue, Shivesh | 
+7/20     | Skipped  | Will, Alex  | Nirvaan, Shunyue, Shivesh | 
 7/27     | ????  | Billy, Yueqing  | Kevin, Mick | 
-8/3   | ????  | Will, Alex  | Nirvaan, Shunyue, Shivesh | 
+8/3   | ????  | Will, Shivesh  | Nirvaan, Shunyue | 
 8/10    | ????  | Billy, Yueqing  | Kevin, Mick | 
 
 ## Prep for the meeting
