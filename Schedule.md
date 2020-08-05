@@ -7,7 +7,9 @@ Week of | Monday office hours | Wednesday | Thursday
 7/6     | TDDFT  | Will, Alex  | Nirvaan, Shunyue, Shivesh | 
 7/13     | Spinor wave function  | Billy, Yueqing  | Kevin, Mick | 
 7/20     | Skipped  | Will, Alex  | Nirvaan, Shunyue, Shivesh | 
-7/27     | ????  | Billy, Yueqing  | Kevin, Mick | 
+7/27     | Goodenough-Kanamori  | Billy, Yueqing  | Kevin, Mick | 
+8/3   | Green functions  | Check-ins  | Check-ins | 
+8/10    | MB green functions and self energy  | Check-ins  | Check-ins | 
 8/3   | ????  | Will, Shivesh  | Nirvaan, Shunyue | 
 8/10    | ????  | Billy, Yueqing  | Kevin, Mick | 
 
