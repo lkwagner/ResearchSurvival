@@ -9,8 +9,8 @@ Week of | Monday office hours | Wednesday | Thursday
 7/20     | Skipped  | Will, Alex  | Nirvaan, Shunyue, Shivesh | 
 7/27     | Goodenough-Kanamori  | Billy, Yueqing  | Kevin, Mick | 
 8/3   | Green functions  | Check-ins  | Check-ins | 
-8/10    | MB green functions and self energy  | Check-ins  | Check-ins | 
-8/3   | ????  | Will, Shivesh  | Nirvaan, Shunyue | 
+8/10    | Correlation functions and fluctuation-dissipation  | Check-ins  | Check-ins | 
+8/3   | MB green functions and self energy  | Will, Shivesh  | Nirvaan, Shunyue | 
 8/10    | ????  | Billy, Yueqing  | Kevin, Mick | 
 
 ## Prep for the meeting
