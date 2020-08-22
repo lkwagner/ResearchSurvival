@@ -1,15 +1,23 @@
-## Summer schedule for meetings
+## Fall schedule for meetings
 
-Week of | Monday office hours | Wednesday | Thursday 
---------|--------------------|-----------|---------
-6/22    | Bonding, orbitals   | Will, Alex | Nirvaan, Shunyue|
-6/29    | ???   | Billy, Yueqing | Kevin, Mick |
-7/6     | ????  | Will, Alex  | Nirvaan, Shunyue, Shivesh | 
-7/13     | ????  | Billy, Yueqing  | Kevin, Mick | 
-7/20     | ????  | Will, Alex  | Nirvaan, Shunyue, Shivesh | 
-7/27     | ????  | Billy, Yueqing  | Kevin, Mick | 
-8/3   | ????  | Will, Alex  | Nirvaan, Shunyue, Shivesh | 
-8/10    | ????  | Billy, Yueqing  | Kevin, Mick | 
+Week of | Tuesday one-on-one | Wednesday one-on-one | Thursday one-on-one | Wednesday hack time | Friday hack time 
+--------|--------------------|-----------|---------|---------------------|--------------------
+| | 11 AM | 11 AM | 11 AM | 2 PM | 10 AM 
+2020-08-25 00:00:00|Yueqing|Nirvaan|Scott|Alex|Mick
+2020-09-01 00:00:00|Will|Shunyue|Alex|Billy|Yueqing
+2020-09-08 00:00:00|Mick|Chun Yu|Billy|Shivesh|Kevin
+2020-09-15 00:00:00|Kevin|Nirvaan|Shivesh|Scott|Chun Yu
+2020-09-22 00:00:00|Yueqing|Shunyue|Scott|Nirvaan|Will
+2020-09-29 00:00:00|Will|Chun Yu|Alex|Billy|Yueqing
+2020-10-06 00:00:00|Mick|Nirvaan|Billy|Alex|Mick
+2020-10-13 00:00:00|Kevin|Shunyue|Shivesh|Shivesh|Kevin
+2020-10-20 00:00:00|Yueqing|Chun Yu|Scott|Nirvaan|Chun Yu
+2020-10-27 00:00:00|Will|Nirvaan|Alex|Scott|Will
+2020-11-03 00:00:00|Mick|Shunyue|Billy|Alex|Yueqing
+2020-11-10 00:00:00|Kevin|Chun Yu|Shivesh|Billy|Mick
+2020-11-17 00:00:00|Yueqing|Nirvaan|Scott|Shivesh|Kevin
+2020-12-01 00:00:00|Will|Shunyue|Alex|Scott|Chun Yu
+2020-12-08 00:00:00|Mick|Chun Yu|Billy|Nirvaan|Will
 
 ## Prep for the meeting
 
