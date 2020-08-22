@@ -2,7 +2,7 @@
 
 Week of | Tuesday one-on-one | Wednesday one-on-one | Thursday one-on-one | Wednesday hack time | Friday hack time 
 --------|--------------------|-----------|---------|---------------------|--------------------
-| | 11 AM | 11 AM | 11 AM | 2 PM | 10 AM 
+| | 11 AM | 11 AM | 11 AM | 2 PM | 9 AM 
 08-25|Yueqing|Nirvaan|Scott|Alex|Mick
 09-01|Will|Shunyue|Alex|Billy|Yueqing
 09-08|Mick|Chun Yu|Billy|Shivesh|Kevin
