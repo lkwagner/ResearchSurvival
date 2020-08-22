@@ -5,19 +5,19 @@ Week of | Tuesday one-on-one | Wednesday one-on-one | Thursday one-on-one | Wedn
 | | 11 AM | 11 AM | 11 AM | 2 PM | 9 AM 
 08-25|Yueqing|Nirvaan|Scott|Alex|Mick
 09-01|Will|Shunyue|Alex|Billy|Yueqing
-09-08|Mick|Chun Yu|Billy|Shivesh|Kevin
+09-08|Mick|Chun Yu (H 9AM)|Billy|Shivesh|Kevin
 09-15|Kevin|Nirvaan|Shivesh|Scott|Chun Yu
 09-22|Yueqing|Shunyue|Scott|Nirvaan|Will
-09-29|Will|Chun Yu|Alex|Billy|Yueqing
+09-29|Will|Chun Yu (H 9 AM)|Alex|Billy|Yueqing
 10-06|Mick|Nirvaan|Billy|Alex|Mick
 10-13|Kevin|Shunyue|Shivesh|Nirvaan|Kevin
-10-20|Yueqing|Chun Yu|Scott|Shivesh|Chun Yu
+10-20|Yueqing|Chun Yu (H 9 AM)|Scott|Shivesh|Chun Yu
 10-27|Will|Nirvaan|Alex|Scott|Will
 11-03|Mick|Shunyue|Billy|Alex|Yueqing
-11-10|Kevin|Chun Yu|Shivesh|Billy|Mick
+11-10|Kevin|Chun Yu (H 9 AM)|Shivesh|Billy|Mick
 11-17|Yueqing|Nirvaan|Scott|Shivesh|Kevin
 12-01|Will|Shunyue|Alex|Scott|Chun Yu
-12-08|Mick|Chun Yu|Billy|Nirvaan|Will
+12-08|Mick|Chun Yu (H 9 AM)|Billy|Nirvaan|Will
 
 ## Prep for the meeting
 
