@@ -3,21 +3,21 @@
 Week of | Tuesday one-on-one | Wednesday one-on-one | Thursday one-on-one | Wednesday hack time | Friday hack time 
 --------|--------------------|-----------|---------|---------------------|--------------------
 | | 11 AM | 11 AM | 11 AM | 2 PM | 10 AM 
-2020-08-25 00:00:00|Yueqing|Nirvaan|Scott|Alex|Mick
-2020-09-01 00:00:00|Will|Shunyue|Alex|Billy|Yueqing
-2020-09-08 00:00:00|Mick|Chun Yu|Billy|Shivesh|Kevin
-2020-09-15 00:00:00|Kevin|Nirvaan|Shivesh|Scott|Chun Yu
-2020-09-22 00:00:00|Yueqing|Shunyue|Scott|Nirvaan|Will
-2020-09-29 00:00:00|Will|Chun Yu|Alex|Billy|Yueqing
-2020-10-06 00:00:00|Mick|Nirvaan|Billy|Alex|Mick
-2020-10-13 00:00:00|Kevin|Shunyue|Shivesh|Nirvaan|Kevin
-2020-10-20 00:00:00|Yueqing|Chun Yu|Scott|Shivesh|Chun Yu
-2020-10-27 00:00:00|Will|Nirvaan|Alex|Scott|Will
-2020-11-03 00:00:00|Mick|Shunyue|Billy|Alex|Yueqing
-2020-11-10 00:00:00|Kevin|Chun Yu|Shivesh|Billy|Mick
-2020-11-17 00:00:00|Yueqing|Nirvaan|Scott|Shivesh|Kevin
-2020-12-01 00:00:00|Will|Shunyue|Alex|Scott|Chun Yu
-2020-12-08 00:00:00|Mick|Chun Yu|Billy|Nirvaan|Will
+08-25|Yueqing|Nirvaan|Scott|Alex|Mick
+09-01|Will|Shunyue|Alex|Billy|Yueqing
+09-08|Mick|Chun Yu|Billy|Shivesh|Kevin
+09-15|Kevin|Nirvaan|Shivesh|Scott|Chun Yu
+09-22|Yueqing|Shunyue|Scott|Nirvaan|Will
+09-29|Will|Chun Yu|Alex|Billy|Yueqing
+10-06|Mick|Nirvaan|Billy|Alex|Mick
+10-13|Kevin|Shunyue|Shivesh|Nirvaan|Kevin
+10-20|Yueqing|Chun Yu|Scott|Shivesh|Chun Yu
+10-27|Will|Nirvaan|Alex|Scott|Will
+11-03|Mick|Shunyue|Billy|Alex|Yueqing
+11-10|Kevin|Chun Yu|Shivesh|Billy|Mick
+11-17|Yueqing|Nirvaan|Scott|Shivesh|Kevin
+12-01|Will|Shunyue|Alex|Scott|Chun Yu
+12-08|Mick|Chun Yu|Billy|Nirvaan|Will
 
 ## Prep for the meeting
 
