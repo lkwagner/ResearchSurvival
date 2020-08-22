@@ -10,8 +10,8 @@ Week of | Tuesday one-on-one | Wednesday one-on-one | Thursday one-on-one | Wedn
 2020-09-22 00:00:00|Yueqing|Shunyue|Scott|Nirvaan|Will
 2020-09-29 00:00:00|Will|Chun Yu|Alex|Billy|Yueqing
 2020-10-06 00:00:00|Mick|Nirvaan|Billy|Alex|Mick
-2020-10-13 00:00:00|Kevin|Shunyue|Shivesh|Shivesh|Kevin
-2020-10-20 00:00:00|Yueqing|Chun Yu|Scott|Nirvaan|Chun Yu
+2020-10-13 00:00:00|Kevin|Shunyue|Shivesh|Nirvaan|Kevin
+2020-10-20 00:00:00|Yueqing|Chun Yu|Scott|Shivesh|Chun Yu
 2020-10-27 00:00:00|Will|Nirvaan|Alex|Scott|Will
 2020-11-03 00:00:00|Mick|Shunyue|Billy|Alex|Yueqing
 2020-11-10 00:00:00|Kevin|Chun Yu|Shivesh|Billy|Mick
