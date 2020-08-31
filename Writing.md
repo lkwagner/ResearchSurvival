@@ -1,6 +1,8 @@
 I very much recommend that you read through the material available at [Celia Elliot's webpage](https://physics.illinois.edu/people/directory/profile/cmelliot). 
 Her talks have a lot of detail on each of these topics.
 
+[Paper template](https://github.com/lkwagner/paper-template)
+
 ## Collaboration
  * Set up a private GitHub repository
  * Commit all plotting and analysis scripts to the repository 
