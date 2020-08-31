@@ -1,10 +1,10 @@
 I very much recommend that you read through the material available at [Celia Elliot's webpage](https://physics.illinois.edu/people/directory/profile/cmelliot). 
 Her talks have a lot of detail on each of these topics.
 
-[Paper template](https://github.com/lkwagner/paper-template)
+[Paper template](https://github.com/lkwagner/paper-template) that you should start with.
 
 ## Collaboration
- * Set up a private GitHub repository
+ * Set up a private GitHub repository (copy template from above by clicking on the 'Use this template' button)
  * Commit all plotting and analysis scripts to the repository 
  * If data is less than a few MB, also put it in the repository. If it's big, provide a link to it.
  * Do not commit .aux and the paper PDF. Figure PDFs are ok.
