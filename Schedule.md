@@ -14,9 +14,9 @@ Week of | Tuesday one-on-one | Wednesday one-on-one | Thursday one-on-one | Wedn
 10-20|Yueqing|Chun Yu (H 9 AM)|Scott|Shivesh|Kevin
 10-27|Will|Nirvaan|Alex|Scott|Will
 11-03|Mick|Shunyue & Nirvaan|Billy|Yueqing|Alex
-11-10|Kevin|Chun Yu (H 9 AM)|Shivesh|Billy|Mick
-11-17|Yueqing|Sonali|Scott|Shivesh|Kevin
-12-01|Will|Shunyue|Alex|Scott|Chun Yu
+11-10|Kevin|Sonali (11 AM)/Chun Yu (H 9 AM)|Shivesh|Billy|Mick
+11-17|Yueqing|Shunyue/Nirvaan|Scott|Shivesh|Kevin
+12-01|Will|Sonali|Alex|Scott|Chun Yu
 12-08|Mick|Chun Yu (H 9 AM)|Billy|Nirvaan|Will
 
 ## Prep for the meeting
