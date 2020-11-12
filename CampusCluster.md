@@ -1,3 +1,9 @@
+## Logging in
+
+```
+ssh username@cc-login.campuscluster.illinois.edu
+```
+
 ## conda installation
 
 There is an anaconda installation in `/projects/wagner/anaconda3`.
