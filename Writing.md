@@ -108,3 +108,4 @@ Paper and talk introductions roughly consist of four parts. In a paper, these pa
  ```
   * Write your response to each referee comment below theirs. Suggest changes to the manuscript here. Do not make any changes to the manuscript yet.
   * Discuss the changes with your coauthors and agree whether those changes are warranted and address the referee comments.
+  * Use `latexdiff 4_submit/papername.tex 6_resubmit/papername.tex > 6_resubmit/diff.tex` to get an annotated LaTeX file with all changes highlighted.
